@@ -1,0 +1,854 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+        },
+        "href": "https://api.spotify.com/v1/albums/3SpBlxme9WbeQdI9kx7KAV",
+        "id": "3SpBlxme9WbeQdI9kx7KAV",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02cd945b4e3de57edd28481a3f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
+            "width": 64
+          }
+        ],
+        "name": "Certified Lover Boy",
+        "release_date": "2021-09-03",
+        "release_date_precision": "day",
+        "total_tracks": 21,
+        "type": "album",
+        "uri": "spotify:album:3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          },
+          "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+          "id": "1RyvyyTE3xzB2ZywiAwp0i",
+          "name": "Future",
+          "type": "artist",
+          "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          },
+          "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+          "id": "50co4Is1HCEo8bhOyUWKpn",
+          "name": "Young Thug",
+          "type": "artist",
+          "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 257604,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUG12104403"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0k1WUmIRnG3xU6fvvDVfRG",
+      "id": "0k1WUmIRnG3xU6fvvDVfRG",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Way 2 Sexy (with Future & Young Thug)",
+      "popularity": 93,
+      "preview_url": null,
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:0k1WUmIRnG3xU6fvvDVfRG"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+        },
+        "href": "https://api.spotify.com/v1/albums/3SpBlxme9WbeQdI9kx7KAV",
+        "id": "3SpBlxme9WbeQdI9kx7KAV",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02cd945b4e3de57edd28481a3f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
+            "width": 64
+          }
+        ],
+        "name": "Certified Lover Boy",
+        "release_date": "2021-09-03",
+        "release_date_precision": "day",
+        "total_tracks": 21,
+        "type": "album",
+        "uri": "spotify:album:3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          },
+          "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "type": "artist",
+          "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 291175,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUG12104402"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/40iJIUlhi6renaREYGeIDS",
+      "id": "40iJIUlhi6renaREYGeIDS",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Fair Trade (with Travis Scott)",
+      "popularity": 93,
+      "preview_url": null,
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:40iJIUlhi6renaREYGeIDS"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+        },
+        "href": "https://api.spotify.com/v1/albums/3SpBlxme9WbeQdI9kx7KAV",
+        "id": "3SpBlxme9WbeQdI9kx7KAV",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02cd945b4e3de57edd28481a3f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
+            "width": 64
+          }
+        ],
+        "name": "Certified Lover Boy",
+        "release_date": "2021-09-03",
+        "release_date_precision": "day",
+        "total_tracks": 21,
+        "type": "album",
+        "uri": "spotify:album:3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 221979,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUG12104399"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/37Nqx7iavZpotJSDXZWbJ3",
+      "id": "37Nqx7iavZpotJSDXZWbJ3",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Girls Want Girls (with Lil Baby)",
+      "popularity": 92,
+      "preview_url": null,
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:37Nqx7iavZpotJSDXZWbJ3"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+        },
+        "href": "https://api.spotify.com/v1/albums/3SpBlxme9WbeQdI9kx7KAV",
+        "id": "3SpBlxme9WbeQdI9kx7KAV",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02cd945b4e3de57edd28481a3f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
+            "width": 64
+          }
+        ],
+        "name": "Certified Lover Boy",
+        "release_date": "2021-09-03",
+        "release_date_precision": "day",
+        "total_tracks": 21,
+        "type": "album",
+        "uri": "spotify:album:3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          },
+          "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+          "id": "1URnnhqYAYcrqrcwql10ft",
+          "name": "21 Savage",
+          "type": "artist",
+          "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+          },
+          "href": "https://api.spotify.com/v1/artists/08Ld63UgKrJ0nZnCkzHtzc",
+          "id": "08Ld63UgKrJ0nZnCkzHtzc",
+          "name": "Project Pat",
+          "type": "artist",
+          "uri": "spotify:artist:08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 242965,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUG12104409"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2BcMwX1MPV6ZHP4tUT9uq6",
+      "id": "2BcMwX1MPV6ZHP4tUT9uq6",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Knife Talk (with 21 Savage ft. Project Pat)",
+      "popularity": 91,
+      "preview_url": null,
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:2BcMwX1MPV6ZHP4tUT9uq6"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+        },
+        "href": "https://api.spotify.com/v1/albums/3SpBlxme9WbeQdI9kx7KAV",
+        "id": "3SpBlxme9WbeQdI9kx7KAV",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02cd945b4e3de57edd28481a3f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
+            "width": 64
+          }
+        ],
+        "name": "Certified Lover Boy",
+        "release_date": "2021-09-03",
+        "release_date_precision": "day",
+        "total_tracks": 21,
+        "type": "album",
+        "uri": "spotify:album:3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 336511,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUG12104397"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2HSmyk2qMN8WQjuGhaQgCk",
+      "id": "2HSmyk2qMN8WQjuGhaQgCk",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Champagne Poetry",
+      "popularity": 88,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2HSmyk2qMN8WQjuGhaQgCk"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+        },
+        "href": "https://api.spotify.com/v1/albums/3SpBlxme9WbeQdI9kx7KAV",
+        "id": "3SpBlxme9WbeQdI9kx7KAV",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02cd945b4e3de57edd28481a3f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
+            "width": 64
+          }
+        ],
+        "name": "Certified Lover Boy",
+        "release_date": "2021-09-03",
+        "release_date_precision": "day",
+        "total_tracks": 21,
+        "type": "album",
+        "uri": "spotify:album:3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 204346,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUG12104408"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2tUL6dZf1mywCj5WvCPZw6",
+      "id": "2tUL6dZf1mywCj5WvCPZw6",
+      "is_local": false,
+      "is_playable": true,
+      "name": "No Friends In The Industry",
+      "popularity": 86,
+      "preview_url": null,
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:2tUL6dZf1mywCj5WvCPZw6"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+        },
+        "href": "https://api.spotify.com/v1/albums/3SpBlxme9WbeQdI9kx7KAV",
+        "id": "3SpBlxme9WbeQdI9kx7KAV",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02cd945b4e3de57edd28481a3f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
+            "width": 64
+          }
+        ],
+        "name": "Certified Lover Boy",
+        "release_date": "2021-09-03",
+        "release_date_precision": "day",
+        "total_tracks": 21,
+        "type": "album",
+        "uri": "spotify:album:3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 308755,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUG12104404"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4s7QLoImIwmPi9L6dq1nVW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4s7QLoImIwmPi9L6dq1nVW",
+      "id": "4s7QLoImIwmPi9L6dq1nVW",
+      "is_local": false,
+      "is_playable": true,
+      "name": "TSU",
+      "popularity": 85,
+      "preview_url": null,
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:4s7QLoImIwmPi9L6dq1nVW"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
+        },
+        "href": "https://api.spotify.com/v1/albums/5LuoozUhs2pl3glZeAJl89",
+        "id": "5LuoozUhs2pl3glZeAJl89",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2738b20e4631fa15d3953528bbc",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e028b20e4631fa15d3953528bbc",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048518b20e4631fa15d3953528bbc",
+            "width": 64
+          }
+        ],
+        "name": "Scary Hours 2",
+        "release_date": "2021-03-05",
+        "release_date_precision": "day",
+        "total_tracks": 3,
+        "type": "album",
+        "uri": "spotify:album:5LuoozUhs2pl3glZeAJl89"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          },
+          "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist",
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 192956,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUG12101042"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b"
+      },
+      "href": "https://api.spotify.com/v1/tracks/65OVbaJR5O1RmwOQx0875b",
+      "id": "65OVbaJR5O1RmwOQx0875b",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Wants and Needs (feat. Lil Baby)",
+      "popularity": 85,
+      "preview_url": null,
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:65OVbaJR5O1RmwOQx0875b"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+        },
+        "href": "https://api.spotify.com/v1/albums/3SpBlxme9WbeQdI9kx7KAV",
+        "id": "3SpBlxme9WbeQdI9kx7KAV",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02cd945b4e3de57edd28481a3f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
+            "width": 64
+          }
+        ],
+        "name": "Certified Lover Boy",
+        "release_date": "2021-09-03",
+        "release_date_precision": "day",
+        "total_tracks": 21,
+        "type": "album",
+        "uri": "spotify:album:3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 178623,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUG12104398"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6jy9yJfgCsMHdu2Oz4BGKX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6jy9yJfgCsMHdu2Oz4BGKX",
+      "id": "6jy9yJfgCsMHdu2Oz4BGKX",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Papi’s Home",
+      "popularity": 85,
+      "preview_url": null,
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6jy9yJfgCsMHdu2Oz4BGKX"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+        },
+        "href": "https://api.spotify.com/v1/albums/3SpBlxme9WbeQdI9kx7KAV",
+        "id": "3SpBlxme9WbeQdI9kx7KAV",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02cd945b4e3de57edd28481a3f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
+            "width": 64
+          }
+        ],
+        "name": "Certified Lover Boy",
+        "release_date": "2021-09-03",
+        "release_date_precision": "day",
+        "total_tracks": 21,
+        "type": "album",
+        "uri": "spotify:album:3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hcs9uc56yIGFCSy9leWe7",
+          "id": "3hcs9uc56yIGFCSy9leWe7",
+          "name": "Lil Durk",
+          "type": "artist",
+          "uri": "spotify:artist:3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          },
+          "href": "https://api.spotify.com/v1/artists/4fxd5Ee7UefO4CUXgwJ7IP",
+          "id": "4fxd5Ee7UefO4CUXgwJ7IP",
+          "name": "Giveon",
+          "type": "artist",
+          "uri": "spotify:artist:4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 296568,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUG12104400"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/61S79KIVA4I9FXbnsylEHT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/61S79KIVA4I9FXbnsylEHT",
+      "id": "61S79KIVA4I9FXbnsylEHT",
+      "is_local": false,
+      "is_playable": true,
+      "name": "In The Bible (with Lil Durk & Giveon)",
+      "popularity": 85,
+      "preview_url": null,
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:61S79KIVA4I9FXbnsylEHT"
+    }
+  ]
+}

@@ -9,13 +9,12 @@
     <link rel="stylesheet" href="homepage.js" 
 </head>
 
-<link href="https://api.audiomack.com/v1" rel="stylesheet"
+<link href="https://api.spotify.com/v1/artists/{id}/albums" rel="stylesheet"
 
   <body>
-<link href="https://api.spotify.com/v1/recommendations?" rel="stylesheet"
+<link href="https://api.spotify.com/v1/artists/{id}/top-tracks" rel="stylesheet"
     <script src="js/vendor/jquery.js"></script>
     <script src="js/vendor/what-input.js"></script>
-    <script src="js/vendor/foundation.min.js"></script>
     <script>
       $(document).foundation();
     </script>
@@ -31,11 +30,11 @@
 <header>
     <div class="hero-section">
         <div class="hero-section-text">
-    <h1>Find a Drake Song For You</h1>
+    <h1>Find a Drake Song For You!</h1>
     </div>
     </div> 
-            <a href="#GENRES" class="button small hollow">GENRES</a>
-            <a href="#ALBUMS" class="button small hollow">ALBUMS</a>
+            <a href="#SONG" class="button small hollow">SONG</a>
+            <a href="#ALBUM" class="button small hollow">ALBUM</a>
     </header>
 
 </header>
@@ -49,45 +48,41 @@
         <h2>About Drake</h2>
         <p>
           Drake is a Canadian Artist and is very popular in the music industry. 
-          Here you can choose between 3 of his latest albums or 3 of his most popular genres to find a song best suited for your mood!
+          Here you can choose to listen to an album or a random song!
         </p>
     </div>
 <!--New Section-->
-<section id="GENRES" class="music-type"
+<section id="SONG" class="music-type"
 <div class="flex-row">
     <h3 class="section-title primary-border">
-        GENRES
+        SONG
     </h3>
     </div>
     <div class="flex-row">
         <h5>
-        Choose the Genre of your choice.
+        Choose a Song for me.
         </h5>
         <div class="button-group align-center">
-            <a class="button hollow">R&B</a>
-            <a class="button hollow">Hip Hop</a>
-            <a class="button hollow">Rap</a>
+            <a class="button hollow">Drake Song</a>
           </div>
 
     </div>
     </div>
 </section>
-<section id="ALBUMS" class="ALBUMS"
-<div class="flex-row">
+<section id="ALBUM" class="ALBUM"
+ <div class="flex-row">
     <h3 class="section-title primary-border">
-        ALBUMS
+        ALBUM
     </h3>
     </div>
     <div class="flex-row">
         <h5>
-        Choose the Album of your choice.
+        Choose an Album for me.
         </h5>
     </div>
     </div>
     <div class="button-group align-center">
-        <a class="button hollow">CLB</a>
-        <a class="button hollow">Scorpion</a>
-        <a class="button hollow">Dark Lane Demo Tapes</a>
+        <a class="button hollow">Album</a>
       </div>
 </section>
 <div class="col-12 col-md-8">

@@ -1,0 +1,230 @@
+{
+  "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4/albums?offset=5&limit=5&include_groups=album,single,compilation,appears_on&market=US",
+  "items": [
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6CY70qRxPutN3VKfYhNREa"
+      },
+      "href": "https://api.spotify.com/v1/albums/6CY70qRxPutN3VKfYhNREa",
+      "id": "6CY70qRxPutN3VKfYhNREa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731f853c4891e0bc6210b88909",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021f853c4891e0bc6210b88909",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511f853c4891e0bc6210b88909",
+          "width": 64
+        }
+      ],
+      "name": "Care Package",
+      "release_date": "2019-08-02",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:6CY70qRxPutN3VKfYhNREa"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2podUJIFG8hLfFz7Kqe8yJ"
+      },
+      "href": "https://api.spotify.com/v1/albums/2podUJIFG8hLfFz7Kqe8yJ",
+      "id": "2podUJIFG8hLfFz7Kqe8yJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27397639c703b41454a3242a0f7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0297639c703b41454a3242a0f7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485197639c703b41454a3242a0f7",
+          "width": 64
+        }
+      ],
+      "name": "So Far Gone",
+      "release_date": "2019-02-14",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:2podUJIFG8hLfFz7Kqe8yJ"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "href": "https://api.spotify.com/v1/albums/1ATL5GLyefJaxhQzSPVrLX",
+      "id": "1ATL5GLyefJaxhQzSPVrLX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f907de96b9a4fbc04accc0d5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f907de96b9a4fbc04accc0d5",
+          "width": 64
+        }
+      ],
+      "name": "Scorpion",
+      "release_date": "2018-06-29",
+      "release_date_precision": "day",
+      "total_tracks": 25,
+      "type": "album",
+      "uri": "spotify:album:1ATL5GLyefJaxhQzSPVrLX"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/42wvKYHFezpmDuAP43558f"
+      },
+      "href": "https://api.spotify.com/v1/albums/42wvKYHFezpmDuAP43558f",
+      "id": "42wvKYHFezpmDuAP43558f",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c185e37be2a06b5c6f2dc704",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c185e37be2a06b5c6f2dc704",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c185e37be2a06b5c6f2dc704",
+          "width": 64
+        }
+      ],
+      "name": "Scorpion",
+      "release_date": "2018-06-29",
+      "release_date_precision": "day",
+      "total_tracks": 25,
+      "type": "album",
+      "uri": "spotify:album:42wvKYHFezpmDuAP43558f"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+      },
+      "href": "https://api.spotify.com/v1/albums/1lXY618HWkwYKJWBRYR4MK",
+      "id": "1lXY618HWkwYKJWBRYR4MK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024f0fd9dad63977146e685700",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514f0fd9dad63977146e685700",
+          "width": 64
+        }
+      ],
+      "name": "More Life",
+      "release_date": "2017-03-18",
+      "release_date_precision": "day",
+      "total_tracks": 22,
+      "type": "album",
+      "uri": "spotify:album:1lXY618HWkwYKJWBRYR4MK"
+    }
+  ],
+  "limit": 5,
+  "next": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4/albums?offset=10&limit=5&include_groups=album,single,compilation,appears_on&market=US",
+  "offset": 5,
+  "previous": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4/albums?offset=0&limit=5&include_groups=album,single,compilation,appears_on&market=US",
+  "total": 703
+}
